@@ -18,9 +18,5 @@ This means Higher concentration = Higher mortality = Better larvicide effectiven
 Overall Performance Ranking (Average Mortality Across All Concentrations): Effective botanical-concentration combinations
 Alimosho 11.53 > Kosofe 8.45 > Amuwo-Odofin 7.78 > Ikorodu > 6.97
 
-Possible reasons for effectiveness differences
-Environmental factors: Climate, humidity, temperature in each region
-Soil composition: Affects botanical nutrient uptake and potency
-- **Botanical collection time:** Maturity of plants when harvested
-- **Storage/transport:** May affect botanical quality and effectiveness
-- **Larval population genetics:** Different mosquito populations in each area
+## Visuals 
+<img width="2305" height="981" alt="image" src="https://github.com/user-attachments/assets/a96c655a-057b-4323-b50a-606cf862a1dc" />
